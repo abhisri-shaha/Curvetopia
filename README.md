@@ -51,7 +51,11 @@ The project has been rigorously tested using a series of test cases provided by 
 
 ## Authors
 - Abhisri Shaha
+    - [abhisri.shaha.cse26@heritageit.edu.in](mailto:abhisri.shaha.cse26@heritageit.edu.in)
+    - +91 9831319710
 - Shivangi Shree
+    - [shivangi.shree.cse26@heritageit.edu.in](mailto:shivangi.shree.cse26@heritageit.edu.in)
+    - +91 9153899151
 
 ## Conclusion
 This project demonstrates a deep understanding of computational geometry and its application to real-world problems in 2D curve processing. By addressing regularization, symmetry analysis, and curve completion, we have developed robust solutions applicable to various domains, including computer graphics, pattern recognition, and digital image processing. We are confident that our work showcases both the technical depth and practical applicability that Adobe seeks.
