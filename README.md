@@ -11,7 +11,7 @@ This project was developed using ![Python](https://img.shields.io/badge/python-3
 The project is organized into the following files and folders:
 
 - `pronlems`: Folder containing the test case files
-- `Curvetopia Problem Statement`: PDF file containing the problem statement for the hackathon.
+- `Curvetopia Problem Statement.pdf`: PDF file containing the problem statement for the hackathon.
 - `Regularization and Symmetry.ipynb`: Jupyter notebook with code for regularization and symmetry analysis.
 - `Curve Completion (Occlusion).ipynb`: Jupyter notebook with code for curve completion (occlusion handling).
 
