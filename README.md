@@ -4,6 +4,17 @@ Project for Adobe GenSolve Hackathon (Round 2) Hackathon
 ## Overview
 This project addresses three critical challenges in 2D curve processing: regularization, symmetry analysis, and occlusion completion. The primary goal is to enhance and complete 2D curves by ensuring smoothness, detecting and analyzing symmetry, and effectively handling occlusions. Advanced computational geometry techniques have been employed to achieve these objectives, with solutions validated against test cases.
 
+This project was developed using ![Python](https://img.shields.io/badge/python-3.10-blue) and executed in ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
+
+## Project Structure
+
+The project is organized into the following files and folders:
+
+- `pronlems`: Folder containing the test case files
+- `Curvetopia Problem Statement`: PDF file containing the problem statement for the hackathon.
+- `Regularization and Symmetry.ipynb`: Jupyter notebook with code for regularization and symmetry analysis.
+- `Curve Completion (Occlusion).ipynb`: Jupyter notebook with code for curve completion (occlusion handling).
+
 ## Project Components
 
 ### 1. Regularization
